@@ -8,6 +8,7 @@ Designing and implementing an autonomous vehicle within the Unity framework from
 
 ## Project Motivation<a name="motivation"></a>
 The project is driven by a desire to learn C#, OOP, genetic algorithms, and the intricacies of self-driving challenges. It offers an opportunity to dive into these areas through hands-on experience, providing a deeper understanding of software development, algorithm optimization, and autonomous systems.
+
 ![image](https://github.com/MattDavies-code/Autonomous-Car-in-Unity/assets/54101905/7a7c2cd5-d33e-4520-938c-3e8b68190aca)
 
 
